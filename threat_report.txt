@@ -1,0 +1,83 @@
+
+============================================================
+CYBERSECURITY THREAT DETECTION REPORT
+============================================================
+
+Analysis Date: 2026-03-13 01:07:32
+Total Logs Analyzed: 95
+Suspicious IPs Detected: 3
+
+DETECTED THREATS:
+------------------------------------------------------------
+
+IP Address: 185.220.101.45
+Threat Type: Multiple Failed Logins
+Severity: HIGH
+Details: 19 failed login attempts detected
+------------------------------------------------------------
+
+IP Address: 203.45.67.89
+Threat Type: Multiple Failed Logins
+Severity: HIGH
+Details: 20 failed login attempts detected
+------------------------------------------------------------
+
+IP Address: 91.203.45.78
+Threat Type: Multiple Failed Logins
+Severity: HIGH
+Details: 22 failed login attempts detected
+------------------------------------------------------------
+
+IP Address: 185.220.101.45
+Threat Type: Brute Force Attack
+Severity: CRITICAL
+Details: 4 failed attempts in 10 minutes
+------------------------------------------------------------
+
+IP Address: 203.45.67.89
+Threat Type: Brute Force Attack
+Severity: CRITICAL
+Details: 5 failed attempts in 10 minutes
+------------------------------------------------------------
+
+IP Address: 91.203.45.78
+Threat Type: Brute Force Attack
+Severity: CRITICAL
+Details: 6 failed attempts in 10 minutes
+------------------------------------------------------------
+
+IP Address: 185.220.101.45
+Threat Type: Abnormal Login Frequency
+Severity: MEDIUM
+Details: 19 total attempts (threshold: 13.3)
+------------------------------------------------------------
+
+IP Address: 203.45.67.89
+Threat Type: Abnormal Login Frequency
+Severity: MEDIUM
+Details: 20 total attempts (threshold: 13.3)
+------------------------------------------------------------
+
+IP Address: 91.203.45.78
+Threat Type: Abnormal Login Frequency
+Severity: MEDIUM
+Details: 22 total attempts (threshold: 13.3)
+------------------------------------------------------------
+
+IP Address: 185.220.101.45
+Threat Type: Suspicious Username Attempts
+Severity: HIGH
+Details: 19 attempts with admin usernames
+------------------------------------------------------------
+
+IP Address: 203.45.67.89
+Threat Type: Suspicious Username Attempts
+Severity: HIGH
+Details: 20 attempts with admin usernames
+------------------------------------------------------------
+
+IP Address: 91.203.45.78
+Threat Type: Suspicious Username Attempts
+Severity: HIGH
+Details: 22 attempts with admin usernames
+------------------------------------------------------------

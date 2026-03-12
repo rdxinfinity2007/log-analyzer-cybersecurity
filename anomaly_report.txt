@@ -1,0 +1,62 @@
+
+============================================================
+AI ANOMALY DETECTION REPORT
+============================================================
+
+Analysis Date: 2026-03-13 01:07:32
+Total IPs Analyzed: 37
+Anomalies Detected: 3
+Contamination Rate: 15.0%
+
+TOP 5 MOST ANOMALOUS IPs:
+------------------------------------------------------------
+
+IP: 91.203.45.78
+  Anomaly Score: -0.7670
+  Is Anomaly: YES
+  Login Frequency: 22
+  Failed Logins: 22
+  Failed Ratio: 100.00%
+  Avg Time Interval: 136.95s
+  Unique Users: 4
+------------------------------------------------------------
+
+IP: 203.45.67.89
+  Anomaly Score: -0.7513
+  Is Anomaly: YES
+  Login Frequency: 20
+  Failed Logins: 20
+  Failed Ratio: 100.00%
+  Avg Time Interval: 187.79s
+  Unique Users: 5
+------------------------------------------------------------
+
+IP: 185.220.101.45
+  Anomaly Score: -0.7408
+  Is Anomaly: YES
+  Login Frequency: 19
+  Failed Logins: 19
+  Failed Ratio: 100.00%
+  Avg Time Interval: 197.00s
+  Unique Users: 4
+------------------------------------------------------------
+
+IP: 192.168.1.102
+  Anomaly Score: -0.4499
+  Is Anomaly: NO
+  Login Frequency: 1
+  Failed Logins: 0
+  Failed Ratio: 0.00%
+  Avg Time Interval: 0.00s
+  Unique Users: 1
+------------------------------------------------------------
+
+IP: 192.168.1.178
+  Anomaly Score: -0.4499
+  Is Anomaly: NO
+  Login Frequency: 1
+  Failed Logins: 0
+  Failed Ratio: 0.00%
+  Avg Time Interval: 0.00s
+  Unique Users: 1
+------------------------------------------------------------
